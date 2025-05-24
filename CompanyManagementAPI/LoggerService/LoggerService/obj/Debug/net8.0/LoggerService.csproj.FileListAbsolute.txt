@@ -1,0 +1,51 @@
+D:\coding\.NET\Web apps\Book-API-1\LoggerService\LoggerService\bin\Debug\net8.0\LoggerService.deps.json
+D:\coding\.NET\Web apps\Book-API-1\LoggerService\LoggerService\bin\Debug\net8.0\LoggerService.dll
+D:\coding\.NET\Web apps\Book-API-1\LoggerService\LoggerService\bin\Debug\net8.0\LoggerService.pdb
+D:\coding\.NET\Web apps\Book-API-1\LoggerService\LoggerService\bin\Debug\net8.0\Contracts.dll
+D:\coding\.NET\Web apps\Book-API-1\LoggerService\LoggerService\bin\Debug\net8.0\Contracts.pdb
+D:\coding\.NET\Web apps\Book-API-1\LoggerService\LoggerService\obj\Debug\net8.0\LoggerService.csproj.AssemblyReference.cache
+D:\coding\.NET\Web apps\Book-API-1\LoggerService\LoggerService\obj\Debug\net8.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\.NET\Web apps\Book-API-1\LoggerService\LoggerService\obj\Debug\net8.0\LoggerService.AssemblyInfoInputs.cache
+D:\coding\.NET\Web apps\Book-API-1\LoggerService\LoggerService\obj\Debug\net8.0\LoggerService.AssemblyInfo.cs
+D:\coding\.NET\Web apps\Book-API-1\LoggerService\LoggerService\obj\Debug\net8.0\LoggerService.csproj.CoreCompileInputs.cache
+D:\coding\.NET\Web apps\Book-API-1\LoggerService\LoggerService\obj\Debug\net8.0\LoggerSe.E7AEA5A8.Up2Date
+D:\coding\.NET\Web apps\Book-API-1\LoggerService\LoggerService\obj\Debug\net8.0\LoggerService.dll
+D:\coding\.NET\Web apps\Book-API-1\LoggerService\LoggerService\obj\Debug\net8.0\refint\LoggerService.dll
+D:\coding\.NET\Web apps\Book-API-1\LoggerService\LoggerService\obj\Debug\net8.0\LoggerService.pdb
+D:\coding\.NET\Web apps\Book-API-1\LoggerService\LoggerService\obj\Debug\net8.0\ref\LoggerService.dll
+D:\coding\.NET\Web apps\Book-API-1\LoggerService\LoggerService\bin\Debug\net8.0\Entities.dll
+D:\coding\.NET\Web apps\Book-API-1\LoggerService\LoggerService\bin\Debug\net8.0\Entities.pdb
+C:\coding\.NET\Book-API-1\LoggerService\LoggerService\bin\Debug\net8.0\LoggerService.deps.json
+C:\coding\.NET\Book-API-1\LoggerService\LoggerService\bin\Debug\net8.0\LoggerService.dll
+C:\coding\.NET\Book-API-1\LoggerService\LoggerService\bin\Debug\net8.0\LoggerService.pdb
+C:\coding\.NET\Book-API-1\LoggerService\LoggerService\bin\Debug\net8.0\Contracts.dll
+C:\coding\.NET\Book-API-1\LoggerService\LoggerService\bin\Debug\net8.0\Entities.dll
+C:\coding\.NET\Book-API-1\LoggerService\LoggerService\bin\Debug\net8.0\Contracts.pdb
+C:\coding\.NET\Book-API-1\LoggerService\LoggerService\bin\Debug\net8.0\Entities.pdb
+C:\coding\.NET\Book-API-1\LoggerService\LoggerService\obj\Debug\net8.0\LoggerService.csproj.AssemblyReference.cache
+C:\coding\.NET\Book-API-1\LoggerService\LoggerService\obj\Debug\net8.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\coding\.NET\Book-API-1\LoggerService\LoggerService\obj\Debug\net8.0\LoggerService.AssemblyInfoInputs.cache
+C:\coding\.NET\Book-API-1\LoggerService\LoggerService\obj\Debug\net8.0\LoggerService.AssemblyInfo.cs
+C:\coding\.NET\Book-API-1\LoggerService\LoggerService\obj\Debug\net8.0\LoggerService.csproj.CoreCompileInputs.cache
+C:\coding\.NET\Book-API-1\LoggerService\LoggerService\obj\Debug\net8.0\LoggerSe.E7AEA5A8.Up2Date
+C:\coding\.NET\Book-API-1\LoggerService\LoggerService\obj\Debug\net8.0\LoggerService.dll
+C:\coding\.NET\Book-API-1\LoggerService\LoggerService\obj\Debug\net8.0\refint\LoggerService.dll
+C:\coding\.NET\Book-API-1\LoggerService\LoggerService\obj\Debug\net8.0\LoggerService.pdb
+C:\coding\.NET\Book-API-1\LoggerService\LoggerService\obj\Debug\net8.0\ref\LoggerService.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\LoggerService\LoggerService\bin\Debug\net8.0\LoggerService.deps.json
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\LoggerService\LoggerService\bin\Debug\net8.0\LoggerService.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\LoggerService\LoggerService\bin\Debug\net8.0\LoggerService.pdb
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\LoggerService\LoggerService\bin\Debug\net8.0\Contracts.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\LoggerService\LoggerService\bin\Debug\net8.0\Entities.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\LoggerService\LoggerService\bin\Debug\net8.0\Contracts.pdb
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\LoggerService\LoggerService\bin\Debug\net8.0\Entities.pdb
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\LoggerService\LoggerService\obj\Debug\net8.0\LoggerService.csproj.AssemblyReference.cache
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\LoggerService\LoggerService\obj\Debug\net8.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\LoggerService\LoggerService\obj\Debug\net8.0\LoggerService.AssemblyInfoInputs.cache
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\LoggerService\LoggerService\obj\Debug\net8.0\LoggerService.AssemblyInfo.cs
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\LoggerService\LoggerService\obj\Debug\net8.0\LoggerService.csproj.CoreCompileInputs.cache
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\LoggerService\LoggerService\obj\Debug\net8.0\LoggerSe.E7AEA5A8.Up2Date
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\LoggerService\LoggerService\obj\Debug\net8.0\LoggerService.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\LoggerService\LoggerService\obj\Debug\net8.0\refint\LoggerService.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\LoggerService\LoggerService\obj\Debug\net8.0\LoggerService.pdb
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\LoggerService\LoggerService\obj\Debug\net8.0\ref\LoggerService.dll

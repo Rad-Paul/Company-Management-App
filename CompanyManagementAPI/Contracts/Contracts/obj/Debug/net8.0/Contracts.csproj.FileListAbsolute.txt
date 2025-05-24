@@ -1,0 +1,45 @@
+D:\coding\.NET\Web apps\Book-API-1\Contracts\Contracts\bin\Debug\net8.0\Contracts.deps.json
+D:\coding\.NET\Web apps\Book-API-1\Contracts\Contracts\bin\Debug\net8.0\Contracts.dll
+D:\coding\.NET\Web apps\Book-API-1\Contracts\Contracts\bin\Debug\net8.0\Contracts.pdb
+D:\coding\.NET\Web apps\Book-API-1\Contracts\Contracts\obj\Debug\net8.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\.NET\Web apps\Book-API-1\Contracts\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfoInputs.cache
+D:\coding\.NET\Web apps\Book-API-1\Contracts\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfo.cs
+D:\coding\.NET\Web apps\Book-API-1\Contracts\Contracts\obj\Debug\net8.0\Contracts.csproj.CoreCompileInputs.cache
+D:\coding\.NET\Web apps\Book-API-1\Contracts\Contracts\obj\Debug\net8.0\Contracts.dll
+D:\coding\.NET\Web apps\Book-API-1\Contracts\Contracts\obj\Debug\net8.0\refint\Contracts.dll
+D:\coding\.NET\Web apps\Book-API-1\Contracts\Contracts\obj\Debug\net8.0\Contracts.pdb
+D:\coding\.NET\Web apps\Book-API-1\Contracts\Contracts\obj\Debug\net8.0\ref\Contracts.dll
+D:\coding\.NET\Web apps\Book-API-1\Contracts\Contracts\bin\Debug\net8.0\Entities.dll
+D:\coding\.NET\Web apps\Book-API-1\Contracts\Contracts\bin\Debug\net8.0\Entities.pdb
+D:\coding\.NET\Web apps\Book-API-1\Contracts\Contracts\obj\Debug\net8.0\Contracts.csproj.AssemblyReference.cache
+D:\coding\.NET\Web apps\Book-API-1\Contracts\Contracts\obj\Debug\net8.0\Contracts.csproj.Up2Date
+C:\coding\.NET\Book-API-1\Contracts\Contracts\bin\Debug\net8.0\Contracts.deps.json
+C:\coding\.NET\Book-API-1\Contracts\Contracts\bin\Debug\net8.0\Contracts.dll
+C:\coding\.NET\Book-API-1\Contracts\Contracts\bin\Debug\net8.0\Contracts.pdb
+C:\coding\.NET\Book-API-1\Contracts\Contracts\bin\Debug\net8.0\Entities.dll
+C:\coding\.NET\Book-API-1\Contracts\Contracts\bin\Debug\net8.0\Entities.pdb
+C:\coding\.NET\Book-API-1\Contracts\Contracts\obj\Debug\net8.0\Contracts.csproj.AssemblyReference.cache
+C:\coding\.NET\Book-API-1\Contracts\Contracts\obj\Debug\net8.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\coding\.NET\Book-API-1\Contracts\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfoInputs.cache
+C:\coding\.NET\Book-API-1\Contracts\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfo.cs
+C:\coding\.NET\Book-API-1\Contracts\Contracts\obj\Debug\net8.0\Contracts.csproj.CoreCompileInputs.cache
+C:\coding\.NET\Book-API-1\Contracts\Contracts\obj\Debug\net8.0\Contracts.csproj.Up2Date
+C:\coding\.NET\Book-API-1\Contracts\Contracts\obj\Debug\net8.0\Contracts.dll
+C:\coding\.NET\Book-API-1\Contracts\Contracts\obj\Debug\net8.0\refint\Contracts.dll
+C:\coding\.NET\Book-API-1\Contracts\Contracts\obj\Debug\net8.0\Contracts.pdb
+C:\coding\.NET\Book-API-1\Contracts\Contracts\obj\Debug\net8.0\ref\Contracts.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Contracts\Contracts\bin\Debug\net8.0\Contracts.deps.json
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Contracts\Contracts\bin\Debug\net8.0\Contracts.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Contracts\Contracts\bin\Debug\net8.0\Contracts.pdb
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Contracts\Contracts\bin\Debug\net8.0\Entities.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Contracts\Contracts\bin\Debug\net8.0\Entities.pdb
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Contracts\Contracts\obj\Debug\net8.0\Contracts.csproj.AssemblyReference.cache
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Contracts\Contracts\obj\Debug\net8.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Contracts\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfoInputs.cache
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Contracts\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfo.cs
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Contracts\Contracts\obj\Debug\net8.0\Contracts.csproj.CoreCompileInputs.cache
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Contracts\Contracts\obj\Debug\net8.0\Contracts.csproj.Up2Date
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Contracts\Contracts\obj\Debug\net8.0\Contracts.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Contracts\Contracts\obj\Debug\net8.0\refint\Contracts.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Contracts\Contracts\obj\Debug\net8.0\Contracts.pdb
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Contracts\Contracts\obj\Debug\net8.0\ref\Contracts.dll

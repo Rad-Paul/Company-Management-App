@@ -1,0 +1,569 @@
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\NLog\nlog.config
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\appsettings.Development.json
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\appsettings.json
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\CompanyEmployees.staticwebassets.endpoints.json
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\CompanyEmployees.exe
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\CompanyEmployees.deps.json
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\CompanyEmployees.runtimeconfig.json
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\CompanyEmployees.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\CompanyEmployees.pdb
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\AutoMapper.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Azure.Core.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Azure.Identity.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Humanizer.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\NLog.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\NLog.Extensions.Logging.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\System.ClientModel.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\System.CodeDom.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\System.Memory.Data.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\System.Text.Json.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Contracts.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Entities.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\LoggerService.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\LoggerService.pdb
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Entities.pdb
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Contracts.pdb
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\obj\Debug\net8.0\CompanyEmployees.csproj.AssemblyReference.cache
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\obj\Debug\net8.0\CompanyEmployees.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\obj\Debug\net8.0\CompanyEmployees.AssemblyInfoInputs.cache
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\obj\Debug\net8.0\CompanyEmployees.AssemblyInfo.cs
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\obj\Debug\net8.0\CompanyEmployees.csproj.CoreCompileInputs.cache
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\obj\Debug\net8.0\CompanyEmployees.MvcApplicationPartsAssemblyInfo.cs
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\obj\Debug\net8.0\CompanyEmployees.MvcApplicationPartsAssemblyInfo.cache
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\obj\Debug\net8.0\scopedcss\bundle\CompanyEmployees.styles.css
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\obj\Debug\net8.0\staticwebassets.build.json
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\obj\Debug\net8.0\staticwebassets.development.json
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\obj\Debug\net8.0\staticwebassets\msbuild.CompanyEmployees.Microsoft.AspNetCore.StaticWebAssets.props
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\obj\Debug\net8.0\staticwebassets\msbuild.CompanyEmployees.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\obj\Debug\net8.0\staticwebassets\msbuild.build.CompanyEmployees.props
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CompanyEmployees.props
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CompanyEmployees.props
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\obj\Debug\net8.0\staticwebassets.pack.json
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\obj\Debug\net8.0\CompanyE.34C766B8.Up2Date
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\obj\Debug\net8.0\CompanyEmployees.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\obj\Debug\net8.0\refint\CompanyEmployees.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\obj\Debug\net8.0\CompanyEmployees.pdb
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\obj\Debug\net8.0\CompanyEmployees.genruntimeconfig.cache
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\obj\Debug\net8.0\ref\CompanyEmployees.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\coding\.NET\Web apps\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\NLog\nlog.config
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\appsettings.Development.json
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\appsettings.json
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\CompanyEmployees.staticwebassets.endpoints.json
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\CompanyEmployees.exe
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\CompanyEmployees.deps.json
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\CompanyEmployees.runtimeconfig.json
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\CompanyEmployees.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\CompanyEmployees.pdb
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\AutoMapper.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Azure.Core.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Azure.Identity.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Humanizer.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\NLog.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\NLog.Extensions.Logging.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\System.ClientModel.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\System.CodeDom.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\System.Memory.Data.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\System.Text.Json.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Contracts.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Entities.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\LoggerService.dll
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\LoggerService.pdb
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Entities.pdb
+C:\coding\.NET\Book-API-1\Book-API-1\bin\Debug\net8.0\Contracts.pdb
+C:\coding\.NET\Book-API-1\Book-API-1\obj\Debug\net8.0\CompanyEmployees.csproj.AssemblyReference.cache
+C:\coding\.NET\Book-API-1\Book-API-1\obj\Debug\net8.0\CompanyEmployees.GeneratedMSBuildEditorConfig.editorconfig
+C:\coding\.NET\Book-API-1\Book-API-1\obj\Debug\net8.0\CompanyEmployees.AssemblyInfoInputs.cache
+C:\coding\.NET\Book-API-1\Book-API-1\obj\Debug\net8.0\CompanyEmployees.AssemblyInfo.cs
+C:\coding\.NET\Book-API-1\Book-API-1\obj\Debug\net8.0\CompanyEmployees.csproj.CoreCompileInputs.cache
+C:\coding\.NET\Book-API-1\Book-API-1\obj\Debug\net8.0\CompanyEmployees.MvcApplicationPartsAssemblyInfo.cs
+C:\coding\.NET\Book-API-1\Book-API-1\obj\Debug\net8.0\CompanyEmployees.MvcApplicationPartsAssemblyInfo.cache
+C:\coding\.NET\Book-API-1\Book-API-1\obj\Debug\net8.0\scopedcss\bundle\CompanyEmployees.styles.css
+C:\coding\.NET\Book-API-1\Book-API-1\obj\Debug\net8.0\staticwebassets.build.json
+C:\coding\.NET\Book-API-1\Book-API-1\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\coding\.NET\Book-API-1\Book-API-1\obj\Debug\net8.0\staticwebassets.development.json
+C:\coding\.NET\Book-API-1\Book-API-1\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\coding\.NET\Book-API-1\Book-API-1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\coding\.NET\Book-API-1\Book-API-1\obj\Debug\net8.0\CompanyE.34C766B8.Up2Date
+C:\coding\.NET\Book-API-1\Book-API-1\obj\Debug\net8.0\CompanyEmployees.dll
+C:\coding\.NET\Book-API-1\Book-API-1\obj\Debug\net8.0\refint\CompanyEmployees.dll
+C:\coding\.NET\Book-API-1\Book-API-1\obj\Debug\net8.0\CompanyEmployees.pdb
+C:\coding\.NET\Book-API-1\Book-API-1\obj\Debug\net8.0\CompanyEmployees.genruntimeconfig.cache
+C:\coding\.NET\Book-API-1\Book-API-1\obj\Debug\net8.0\ref\CompanyEmployees.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\NLog\nlog.config
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\appsettings.Development.json
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\appsettings.json
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\CompanyEmployees.staticwebassets.endpoints.json
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\CompanyEmployees.exe
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\CompanyEmployees.deps.json
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\CompanyEmployees.runtimeconfig.json
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\CompanyEmployees.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\CompanyEmployees.pdb
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\AutoMapper.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Azure.Core.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Azure.Identity.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Humanizer.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\NLog.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\NLog.Extensions.Logging.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\System.ClientModel.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\System.CodeDom.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\System.Memory.Data.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\System.Text.Json.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Contracts.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Entities.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\LoggerService.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\LoggerService.pdb
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Entities.pdb
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\bin\Debug\net8.0\Contracts.pdb
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\obj\Debug\net8.0\CompanyEmployees.csproj.AssemblyReference.cache
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\obj\Debug\net8.0\CompanyEmployees.GeneratedMSBuildEditorConfig.editorconfig
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\obj\Debug\net8.0\CompanyEmployees.AssemblyInfoInputs.cache
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\obj\Debug\net8.0\CompanyEmployees.AssemblyInfo.cs
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\obj\Debug\net8.0\CompanyEmployees.csproj.CoreCompileInputs.cache
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\obj\Debug\net8.0\CompanyEmployees.MvcApplicationPartsAssemblyInfo.cs
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\obj\Debug\net8.0\CompanyEmployees.MvcApplicationPartsAssemblyInfo.cache
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\obj\Debug\net8.0\scopedcss\bundle\CompanyEmployees.styles.css
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\obj\Debug\net8.0\staticwebassets.build.json
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\obj\Debug\net8.0\staticwebassets.development.json
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\obj\Debug\net8.0\CompanyE.34C766B8.Up2Date
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\obj\Debug\net8.0\CompanyEmployees.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\obj\Debug\net8.0\refint\CompanyEmployees.dll
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\obj\Debug\net8.0\CompanyEmployees.pdb
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\obj\Debug\net8.0\CompanyEmployees.genruntimeconfig.cache
+C:\coding\Projects\Company-Management-Project\CompanyManagementAPI\Book-API-1\obj\Debug\net8.0\ref\CompanyEmployees.dll

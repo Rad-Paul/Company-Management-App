@@ -1,0 +1,314 @@
+[
+  {
+    "ContainingType": "CompanyManagementAPI.Controllers.AuthenticationController",
+    "Method": "RegisterUser",
+    "RelativePath": "api/authentication",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userForRegistration",
+        "Type": "CompanyManagementAPI.DTOs.UserForRegistrationDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CompanyManagementAPI.Controllers.AuthenticationController",
+    "Method": "Authenticate",
+    "RelativePath": "api/authentication/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userForAuthentication",
+        "Type": "CompanyManagementAPI.DTOs.UserForAuthenticationDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CompanyManagementAPI.Controllers.CompaniesController",
+    "Method": "GetCompanies",
+    "RelativePath": "api/companies",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CompanyManagementAPI.Controllers.CompaniesController",
+    "Method": "CreateCompany",
+    "RelativePath": "api/companies",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "company",
+        "Type": "CompanyManagementAPI.DTOs.CompanyForCreationDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CompanyManagementAPI.Controllers.EmployeesController",
+    "Method": "GetEmployeesForCompany",
+    "RelativePath": "api/companies/{companyId}/employees",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "companyId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "MinAge",
+        "Type": "System.UInt32",
+        "IsRequired": false
+      },
+      {
+        "Name": "MaxAge",
+        "Type": "System.UInt32",
+        "IsRequired": false
+      },
+      {
+        "Name": "SearchTerm",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ValidAgeRange",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "OrderBy",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CompanyManagementAPI.Controllers.EmployeesController",
+    "Method": "CreateEmployeeForCompany",
+    "RelativePath": "api/companies/{companyId}/employees",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "companyId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "employee",
+        "Type": "CompanyManagementAPI.DTOs.EmployeeForCreationDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CompanyManagementAPI.Controllers.EmployeesController",
+    "Method": "GetEmployeeForCompany",
+    "RelativePath": "api/companies/{companyId}/employees/{employeeId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "companyId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "employeeId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "GetEmployeeForCompany"
+  },
+  {
+    "ContainingType": "CompanyManagementAPI.Controllers.EmployeesController",
+    "Method": "DeleteEmployeeForCompany",
+    "RelativePath": "api/companies/{companyId}/employees/{employeeId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "companyId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "employeeId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CompanyManagementAPI.Controllers.EmployeesController",
+    "Method": "UpdateEmployeeForCompany",
+    "RelativePath": "api/companies/{companyId}/employees/{employeeId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "companyId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "employeeId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "employee",
+        "Type": "CompanyManagementAPI.DTOs.EmployeeForUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CompanyManagementAPI.Controllers.EmployeesController",
+    "Method": "PatchEmployeeForCompany",
+    "RelativePath": "api/companies/{companyId}/employees/{employeeId}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "companyId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "employeeId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "patchDoc",
+        "Type": "Microsoft.AspNetCore.JsonPatch.JsonPatchDocument\u00601[[CompanyManagementAPI.DTOs.EmployeeForUpdateDto, CompanyEmployees, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CompanyManagementAPI.Controllers.CompaniesController",
+    "Method": "GetCompany",
+    "RelativePath": "api/companies/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "CompanyById"
+  },
+  {
+    "ContainingType": "CompanyManagementAPI.Controllers.CompaniesController",
+    "Method": "DeleteCompany",
+    "RelativePath": "api/companies/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CompanyManagementAPI.Controllers.CompaniesController",
+    "Method": "UpdateCompany",
+    "RelativePath": "api/companies/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "company",
+        "Type": "CompanyManagementAPI.DTOs.CompanyForUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CompanyManagementAPI.Controllers.CompaniesController",
+    "Method": "CreateCompanies",
+    "RelativePath": "api/companies/collection",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "companies",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CompanyManagementAPI.DTOs.CompanyForCreationDto, CompanyEmployees, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CompanyManagementAPI.Controllers.CompaniesController",
+    "Method": "GetCompanyCollection",
+    "RelativePath": "api/companies/collection/{ids}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ids",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[System.Guid, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "CompanyCollectionByIds"
+  }
+]
