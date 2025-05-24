@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanyEmployees", "Book-API-1\CompanyEmployees.csproj", "{6889529C-B120-49D3-AA33-407D71A24887}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanyEmployees", "Core\CompanyEmployees.csproj", "{6889529C-B120-49D3-AA33-407D71A24887}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggerService", "LoggerService\LoggerService\LoggerService.csproj", "{0B0EA34D-48E2-7E78-964C-71A1FE4B6527}"
 EndProject

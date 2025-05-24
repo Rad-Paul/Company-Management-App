@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\coding\\Projects\\Company-Management-Project\\CompanyManagementAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6889529C-B120-49D3-AA33-407D71A24887}|Book-API-1\\CompanyEmployees.csproj|c:\\coding\\projects\\company-management-project\\companymanagementapi\\book-api-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6889529C-B120-49D3-AA33-407D71A24887}|Book-API-1\\CompanyEmployees.csproj|solutionrelative:book-api-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6889529C-B120-49D3-AA33-407D71A24887}|Core\\CompanyEmployees.csproj|c:\\coding\\projects\\company-management-project\\companymanagementapi\\core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6889529C-B120-49D3-AA33-407D71A24887}|Core\\CompanyEmployees.csproj|solutionrelative:core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\coding\\Projects\\Company-Management-Project\\CompanyManagementAPI\\Book-API-1\\Program.cs",
-              "RelativeDocumentMoniker": "Book-API-1\\Program.cs",
-              "ToolTip": "C:\\coding\\Projects\\Company-Management-Project\\CompanyManagementAPI\\Book-API-1\\Program.cs",
-              "RelativeToolTip": "Book-API-1\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\coding\\Projects\\Company-Management-Project\\CompanyManagementAPI\\Core\\Program.cs",
+              "RelativeDocumentMoniker": "Core\\Program.cs",
+              "ToolTip": "C:\\coding\\Projects\\Company-Management-Project\\CompanyManagementAPI\\Core\\Program.cs",
+              "RelativeToolTip": "Core\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T12:30:03.793Z",
+              "WhenOpened": "2025-05-24T13:54:13.3Z",
               "EditorCaption": ""
             }
           ]

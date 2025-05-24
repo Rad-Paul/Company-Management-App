@@ -1,4 +1,3 @@
-./CompanyManagementApi/bin
-./CompanyManagementApi/obj
-./CompanyManagementApi/*.user
-./CompanyManagementApi/*.suo
+CompanyManagementApi/Core/bin/
+CompanyManagementApi/Core/obj/
+CompanyManagementApi/.vs/

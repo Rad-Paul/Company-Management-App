@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4N69a+cuBD0=",
+  "dgSpecHash": "q7U5PHl2CUI=",
   "success": true,
-  "projectFilePath": "C:\\coding\\Projects\\Company-Management-Project\\CompanyManagementAPI\\Book-API-1\\CompanyEmployees.csproj",
+  "projectFilePath": "C:\\coding\\Projects\\Company-Management-Project\\CompanyManagementAPI\\Core\\CompanyEmployees.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Paul Rad\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\Paul Rad\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
