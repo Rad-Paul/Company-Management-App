@@ -1,0 +1,33 @@
+<div style="display: flex; flex-direction: column; border: solid 2px black; padding: 30px; align-items: center;">
+    <div>
+        <label for="sortField">Order by:</label>
+        <select id="sortField" [(ngModel)]="orderBy" (change)="onSortChange()">
+            <option value="name">Name</option>
+            <option value="position">Position</option>
+            <option value="age">Age</option>
+        </select>
+
+        <label for="searchField">Search:</label>
+        <input id="searchField" type="text" [(ngModel)]="searchTerm" (keyup.enter)="onSearchChange()">
+    </div>
+    
+    @if (employees) {
+        @for (employee of employees; track employee.id) {
+            <app-employee-card [employee]="employee" (onSaveEdit)="saveEmployee($event)"></app-employee-card>
+        }
+        <div>
+            @for (page of pages; track $index) 
+            {
+                <a [routerLink]="['/companies', companyId, 'employees']" 
+                   [queryParams]="{ pageNumber: page, pageSize: pageSize, orderBy: orderBy, searchTerm: searchTerm}">
+                   {{page}}
+                </a>
+            }
+        </div>
+    }
+    @else {
+        <div>
+            Failed fetching employees!
+        </div>
+    }
+</div>

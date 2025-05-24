@@ -1,0 +1,9 @@
+<div style="padding: 10px; border: solid 2px darkgray;">
+    <h2>{{company()?.name}}</h2>
+    <p>{{company()?.fullAddress}}</p>
+    <p>{{company()?.id}}</p>
+    <button [routerLink]="['/companies', company()?.id, 'employees']"
+            [queryParams]="{pageNumber: 1, pageSize: 5 }">
+        INSPECT
+    </button>
+</div>

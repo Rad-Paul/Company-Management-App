@@ -1,0 +1,35 @@
+<div style="padding: 10px; border: solid 2px darkgray;">
+    @if(!isEditing){
+        <p><b>Name</b>: {{employee()?.name}}<p>
+        <p>Position: {{employee()?.position}}</p>
+        <p>Age: {{employee()?.age}}</p>
+        <p>Id: {{employee()?.id}}</p>
+        <div>
+            <button (click)="enableEditing()">Edit</button>
+        </div>
+    }
+    @else {
+        <form [formGroup]="editForm" style="display: flex; flex-direction: column;">
+            <div>
+                <label for="name"><b>Name</b>:</label>
+                <input id="name" type="text" formControlName="name">
+            </div>
+            <div>
+                <label for="position">Position: </label>
+                <input id="position" type="text" formControlName="position">
+            </div>
+            <div>
+                <label for="age">Age: </label>
+                <input id="age" type="number" formControlName="age">
+            </div>         
+
+            <p>Id: {{employee()?.id}}</p>
+
+            <br>
+            <div>
+                <button type="button" (click)="saveEdit()">Save</button>
+                <button type="button" (click)="cancelEditing()">Cancel</button>
+            </div>
+        </form>
+    }
+</div>

@@ -1,0 +1,11 @@
+:root{
+    box-sizing: border-box;
+    --primaryLightness: 90%;
+    --background: hsl(0, 0%, var(--primaryLightness));
+    --primary: hsl(0, 0%, var(--primaryLightness) - 20%);
+}
+body{
+    background-color: var(--background);
+}
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }

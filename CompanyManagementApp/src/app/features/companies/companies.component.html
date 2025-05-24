@@ -1,0 +1,13 @@
+<div class="companies-container">
+    @if (companiesFetched) {
+        <button style="margin: 20px; width: 20%; height: 40px; font-size: 24px;" (click)="openFormDialog()">Register</button>
+        @for (company of companies; track company.id) {
+            <app-company-card [company]="company"/>
+        }
+    }
+    @else {
+        <div>
+            Loading...
+        </div>
+    }
+</div>
